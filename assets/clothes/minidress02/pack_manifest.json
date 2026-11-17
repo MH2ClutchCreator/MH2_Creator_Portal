@@ -1,0 +1,16 @@
+{
+    "id": "minidress02",
+    "name": "Minidress02",
+    "type": "clothes",
+    "license": "CC-BY",
+    "description": "Uploaded via MakeHuman 2 Asset Sharing Studio.",
+    "author": "black-punkduck",
+    "files": [
+        "assets/clothes/minidress02/minidress2.png",
+        "assets/clothes/minidress02/minidress02.thumb",
+        "assets/clothes/minidress02/minidress2_normals.png",
+        "assets/clothes/minidress02/minidress02.mhmat",
+        "assets/clothes/minidress02/minidress02.obj",
+        "assets/clothes/minidress02/minidress02.mhclo"
+    ]
+}
